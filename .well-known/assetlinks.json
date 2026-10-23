@@ -3,6 +3,14 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
+      "package_name": "games.testlabs.ronrom",
+      "sha256_cert_fingerprints": ["63:25:5C:80:0A:AB:C4:7B:F4:38:F6:97:28:65:5A:9E:F5:26:89:11:45:EE:A5:6C:F9:43:2E:B2:A7:4B:87:02"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
       "package_name": "io.github.felipetorres.ronrom",
       "sha256_cert_fingerprints": ["63:25:5C:80:0A:AB:C4:7B:F4:38:F6:97:28:65:5A:9E:F5:26:89:11:45:EE:A5:6C:F9:43:2E:B2:A7:4B:87:02"]
     }
